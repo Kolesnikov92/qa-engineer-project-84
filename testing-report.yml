@@ -1,1 +1,26 @@
-
+- summary: |
+    Добавление товара в корзину
+  status: pass
+    
+- summary: |
+    Оформление заказа
+  status: pass
+    
+- summary: |
+    Поиск на странице магазина
+  status: pass
+- summary: |
+    Разделение товара по категориям
+  status: pass
+    
+- summary: |
+    Разделение товара по категориям
+  status: pass
+    
+- summary: |
+    Разделение товара по производителю
+  status: pass
+    
+- summary: |
+    Проверка поиска по цене товара
+  status: pass
