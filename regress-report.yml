@@ -1,9 +1,49 @@
 ---
 test-cases:
-  - summary: |
-      Проверка языка при открытии новой вкладки
-    status: fail  
+- summary: |
+    Добавление товара в корзину
+  status: pass
+  bugreports: []
+    
+- summary: |
+    Оформление заказа
+  status: pass
+bugreports: []
+    
+- summary: |
+    Поиск на странице магазина
+  status: pass
+bugreports: []
+  
+- summary: |
+    Разделение товара по категориям
+  status: pass
+bugreports: []
+    
+- summary: |
+    Разделение товара по категориям
+  status: pass
+bugreports: []
+    
+- summary: |
+    Разделение товара по производителю
+  status: pass
+bugreports: []
+    
+- summary: |
+    Проверка поиска по цене товара
+  status: pass
+bugreports: []
 
+- summary: |
+    Проверка смены языка в интернет магазине
+  requirement: |
+    status: pass
+bugreports: []
+    
+- summary: |
+    Проверка языка при открытии новой вкладки
+  status: fail
 bugreports:
   - summary: |
       Проверка языка при открытии новой вкладки
