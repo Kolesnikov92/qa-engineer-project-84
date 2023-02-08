@@ -3,48 +3,48 @@ test-cases:
 - summary: |
     Добавление товара в корзину
   status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Оформление заказа
   status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Поиск на странице магазина
   status: pass
-bugreports: []
+  bugreports: []
   
 - summary: |
     Разделение товара по категориям
   status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Разделение товара по категориям
   status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Разделение товара по производителю
   status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Проверка поиска по цене товара
   status: pass
-bugreports: []
+  bugreports: []
 
 - summary: |
     Проверка смены языка в интернет магазине
   requirement: |
     status: pass
-bugreports: []
+  bugreports: []
     
 - summary: |
     Проверка языка при открытии новой вкладки
   status: fail
-bugreports:
+  bugreports:
   - summary: |
       Проверка языка при открытии новой вкладки
     environment: |
