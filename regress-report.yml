@@ -3,7 +3,7 @@ test-cases:
 - summary: |
     Добавление товара в корзину
   status: pass
-  bugreports: []
+bugreports: []
     
 - summary: |
     Оформление заказа
