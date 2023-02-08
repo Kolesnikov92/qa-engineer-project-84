@@ -24,3 +24,12 @@
 - summary: |
     Проверка поиска по цене товара
   status: pass
+
+- summary: |
+    Проверка смены языка в интернет магазине
+  requirement: |
+    status: pass
+    
+- summary: |
+    Проверка языка при открытии новой вкладки
+  status: fail
