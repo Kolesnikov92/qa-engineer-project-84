@@ -1,3 +1,4 @@
+---
 - summary: |
     Добавление товара в корзину
   status: pass
@@ -27,8 +28,7 @@
 
 - summary: |
     Проверка смены языка в интернет магазине
-  requirement: |
-    status: pass
+  status: pass
     
 - summary: |
     Проверка языка при открытии новой вкладки
